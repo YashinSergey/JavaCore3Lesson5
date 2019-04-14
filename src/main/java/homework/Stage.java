@@ -1,8 +1,8 @@
 package homework;
 
 public abstract class Stage {
-    protected int length;
-    protected String description;
+    int length;
+    String description;
     public String getDescription() {
         return description;
     }
